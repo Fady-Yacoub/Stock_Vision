@@ -8,10 +8,10 @@ A Streamlit web application for viewing and analyzing stock market data using Ya
 
 | Member | Role | File |
 |--------|------|------|
-| Member 1 | Project Lead / Backend Developer | `backend.py` |
-| Member 2 | Data Processing & Analysis | `data_processing.py` |
-| Member 3 | Visualization Developer | `visualization.py` |
-| Member 4 | UI Developer / Tester / Docs | `app.py` |
+| Fady Yacoub | Project Lead / Backend Developer | `backend.py` |
+| Fady Ashraf | Data Processing & Analysis | `data_processing.py` |
+| Gerges Raafat | Visualization Developer | `visualization.py` |
+| Mark Samy | UI Developer / Tester / Docs | `app.py` |
 
 ---
 
